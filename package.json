@@ -1,6 +1,6 @@
 {
   "name": "win-tfs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows Team Foundation Server(TFS) version control via Node.js",
   "main": "index.js",
   "scripts": {
